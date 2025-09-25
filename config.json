@@ -8,9 +8,9 @@
       "is_adult": false
     },
     "heimuer": {
-      "api": "https://json.heimuer.xyz/api.php/provide/vod",
-      "name": "黑木耳",
-      "detail": "https://heimuer.tv",
+      "api": "https://api.ffzyapi.com/api.php/provide/vod",
+      "name": "非凡影视",
+      "detail": "http://ffzy5.tv",
       "is_adult": false
     },
     "ruyi": {
@@ -105,5 +105,55 @@
       "name": "小猫咪资源",
       "is_adult": false
     }
+    "bdzy": {
+      "api": "https://api.apibdzy.com/api.php/provide/vod",
+      "name": "百度资源",
+      "is_adult": false
+    },
+    "hongniuzy": {
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "name": "红牛资源"
+      "is_adult": false
+    },
+      "xinlangaa": {
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "name": "新浪资源",
+      "is_adult": false
+    },
+     "ckzy": {
+     "api": "https://ckzy.me/api.php/provide/vod",
+     "name": "CK资源",
+     "detail": "https://ckzy.me"   
+     "is_adult": false
+     },
+     "ukuapi": {
+      "api": "https://api.ukuapi.com/api.php/provide/vod",
+      "name": "U酷资源",
+      "detail": "https://api.ukuapi.com"
+      "is_adult": false
+        },
+     "1080zyk": {
+       "api": "https://api.1080zyku.com/inc/apijson.php/",
+       "name": "1080资源",
+        "detail": "https://api.1080zyku.com"
+        "is_adult": false
+        },
+    "hhzyapi": {
+          "api": "https://hhzyapi.com/api.php/provide/vod",
+          "name": "豪华资源",
+          "detail": "https://hhzyapi.com"
+          "is_adult": false
+        },
+     "subocaiji": {
+        "api": "https://subocaiji.com/api.php/provide/vod",
+        "name": "速博资源"
+        "is_adult": false
+        },
+     "p2100": {
+        "api": "https://p2100.net/api.php/provide/vod",
+        "name": "飘零资源",
+        "detail": "https://p2100.net"
+        "is_adult": false
+      },
   }
 }
